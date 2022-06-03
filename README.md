@@ -5,7 +5,7 @@
 ### Full-stack software developer
 
 - I am currently stuying to be a full-stack software development at Microverse.
-- Bachlor in computer science and have worked as a programming teacher to highschool graduates.
+- Bachelor in computer science and have worked as a programming teacher to highschool graduates.
 - Love to travel, and doing yoga and meditation
 - I am curretly located in Bali, Indonesia
 
