@@ -1,5 +1,5 @@
-
-<h2 align="left"><img width="20" src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif"> Hi, am Cecilia Mukima <img width="50" src="https://media.giphy.com/media/UuenNUWG0nBnGwuhSD/giphy.gif">
+<img width="100" src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif">
+<h2 align="left"> Hi, am Cecilia Mukima <img width="50" src="https://media.giphy.com/media/UuenNUWG0nBnGwuhSD/giphy.gif">
 </h2>
 
 ### Full-stack software developer
