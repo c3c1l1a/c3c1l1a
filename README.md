@@ -1,4 +1,4 @@
-<img width="100" src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif">
+<img width="300" src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif">
 <h2 align="left"> Hi, am Cecilia Mukima <img width="50" src="https://media.giphy.com/media/UuenNUWG0nBnGwuhSD/giphy.gif">
 </h2>
 
