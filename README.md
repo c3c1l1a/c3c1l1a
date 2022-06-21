@@ -1,4 +1,5 @@
 <img width="300" src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=c3c1l1a&label=Profile%20views&color=0e75b6&style=flat" alt="c3c1l1a" /> </p>
 <h2 align="left"> Hi, am Cecilia Mukima <img width="50" src="https://media.giphy.com/media/UuenNUWG0nBnGwuhSD/giphy.gif">
 </h2>
 
